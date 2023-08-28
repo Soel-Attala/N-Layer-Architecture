@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\bin\Debug\CRUD-Project.BLL.dll
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\bin\Debug\CRUD-Project.BLL.pdb
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\obj\Debug\CRUD-Project.BLL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\obj\Debug\CRUD-Project.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\obj\Debug\CRUD-Project.BLL.dll
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\obj\Debug\CRUD-Project.BLL.pdb
