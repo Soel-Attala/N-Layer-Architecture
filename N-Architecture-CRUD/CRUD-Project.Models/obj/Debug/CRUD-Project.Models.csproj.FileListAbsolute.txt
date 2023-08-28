@@ -1,6 +1,0 @@
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.Models\bin\Debug\CRUD-Project.Models.dll
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.Models\bin\Debug\CRUD-Project.Models.pdb
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.Models\obj\Debug\CRUD-Project.Models.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.Models\obj\Debug\CRUD-Project.Models.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.Models\obj\Debug\CRUD-Project.Models.dll
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.Models\obj\Debug\CRUD-Project.Models.pdb

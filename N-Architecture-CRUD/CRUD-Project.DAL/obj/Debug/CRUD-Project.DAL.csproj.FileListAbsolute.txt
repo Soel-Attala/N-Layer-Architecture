@@ -1,6 +1,0 @@
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\bin\Debug\CRUD-Project.DAL.dll
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\bin\Debug\CRUD-Project.DAL.pdb
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\CRUD-Project.DAL.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\CRUD-Project.DAL.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\CRUD-Project.DAL.dll
-C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\CRUD-Project.DAL.pdb

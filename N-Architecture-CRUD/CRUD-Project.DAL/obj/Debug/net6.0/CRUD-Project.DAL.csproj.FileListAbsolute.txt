@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\bin\Debug\net6.0\CRUD-Project.DAL.deps.json
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\bin\Debug\net6.0\CRUD-Project.DAL.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\bin\Debug\net6.0\CRUD-Project.DAL.dll
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\bin\Debug\net6.0\CRUD-Project.DAL.pdb
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\net6.0\CRUD-Project.DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\net6.0\CRUD-Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\net6.0\CRUD-Project.DAL.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\net6.0\CRUD-Project.DAL.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\net6.0\CRUD-Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\net6.0\CRUD-Project.DAL.dll
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\net6.0\refint\CRUD-Project.DAL.dll
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\net6.0\CRUD-Project.DAL.pdb
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\net6.0\CRUD-Project.DAL.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.DAL\obj\Debug\net6.0\ref\CRUD-Project.DAL.dll
