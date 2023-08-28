@@ -7,4 +7,9 @@
     <RootNamespace>CRUD_Project.WebApplication</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CRUD-Project.BLL\CRUD-Project.BLL.csproj" />
+    <ProjectReference Include="..\CRUD-Project.Models\CRUD-Project.Models.csproj" />
+  </ItemGroup>
+
 </Project>

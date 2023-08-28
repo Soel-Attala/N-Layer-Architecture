@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CRUD-Project.DAL\CRUD-Project.DAL.csproj" />
+    <ProjectReference Include="..\CRUD-Project.Models\CRUD-Project.Models.csproj" />
+  </ItemGroup>
+
 </Project>

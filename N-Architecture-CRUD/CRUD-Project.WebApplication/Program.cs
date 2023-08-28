@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using CRUD_Project.DAL.DataContext;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//conection to database
+builder.Services.AddDbContext<DBCRUDTESTContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("LinkSQL"));
+});
 
 var app = builder.Build();
 
