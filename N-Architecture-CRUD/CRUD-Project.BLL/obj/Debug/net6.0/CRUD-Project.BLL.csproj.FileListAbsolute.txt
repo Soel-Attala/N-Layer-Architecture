@@ -10,3 +10,8 @@ C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\
 C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\obj\Debug\net6.0\refint\CRUD-Project.BLL.dll
 C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\obj\Debug\net6.0\CRUD-Project.BLL.pdb
 C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\obj\Debug\net6.0\ref\CRUD-Project.BLL.dll
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\bin\Debug\net6.0\CRUD-Project.DAL.dll
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\bin\Debug\net6.0\CRUD-Project.Models.dll
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\bin\Debug\net6.0\CRUD-Project.DAL.pdb
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\bin\Debug\net6.0\CRUD-Project.Models.pdb
+C:\Users\Usuario\Desktop\Programación\N-Layer-Architecture\N-Architecture-CRUD\CRUD-Project.BLL\obj\Debug\net6.0\CRUD-Project.BLL.csproj.CopyComplete

@@ -1,15 +1,15 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>CRUD_Project.BLL</RootNamespace>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<RootNamespace>CRUD_Project.BLL</RootNamespace>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\CRUD-Project.DAL\CRUD-Project.DAL.csproj" />
-    <ProjectReference Include="..\CRUD-Project.Models\CRUD-Project.Models.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\CRUD-Project.DAL\CRUD-Project.DAL.csproj" />
+		<ProjectReference Include="..\CRUD-Project.Models\CRUD-Project.Models.csproj" />
+	</ItemGroup>
 
 </Project>

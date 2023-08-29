@@ -10,8 +10,8 @@ namespace CRUD_Project.DAL.Repositories
     {
         Task<bool> Insert(TEntityModel model);
         Task<bool> Update(TEntityModel model);
-        Task Delete(int id);
-        Task<bool> Get(int id);
+        Task<bool> Delete(int id);
+        Task<TEntityModel> Get(int id);
         Task<IQueryable<TEntityModel>> GetAll();
         //cuando trabajamos con recurtsos de la base de datos es necesario usar IQueriable
         ////when working with database resources it is necessary to use IQueriable

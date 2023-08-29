@@ -1,4 +1,5 @@
-﻿using CRUD_Project.Models;
+﻿using CRUD_Project.DAL.DataContext;
+using CRUD_Project.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,29 +10,45 @@ namespace CRUD_Project.DAL.Repositories
 {
     public class ContactRepository : IGenericRepository<Contact>
     {
-        public Task Delete(int id)
+        private readonly DBCRUDTESTContext _dbcontext;
+
+        public ContactRepository(DBCRUDTESTContext context)
         {
-            throw new NotImplementedException();
+            _dbcontext = context;
         }
 
-        public Task<bool> Get(int id)
+        public async Task<bool> Delete(int id)
         {
-            throw new NotImplementedException();
+            Contact model = _dbcontext.Contacts.First(c => c.ContactId == id);
+            _dbcontext.Contacts.Remove(model);
+            await _dbcontext.SaveChangesAsync();
+            return true;
+
         }
 
-        public Task<IQueryable<Contact>> GetAll()
+        public async Task<Contact> Get(int id)
         {
-            throw new NotImplementedException();
+            return await _dbcontext.Contacts.FindAsync(id);
         }
 
-        public Task<bool> Insert(Contact model)
+        public async Task<IQueryable<Contact>> GetAll()
         {
-            throw new NotImplementedException();
+            IQueryable<Contact> queryContactSQL = _dbcontext.Contacts;
+            return queryContactSQL;
         }
 
-        public Task<bool> Update(Contact model)
+        public async Task<bool> Insert(Contact model)
         {
-            throw new NotImplementedException();
+            _dbcontext.Contacts.Add(model);
+            await _dbcontext.SaveChangesAsync();
+            return true;
+        }
+
+        public async Task<bool> Update(Contact model)
+        {
+            _dbcontext.Update(model);
+            await _dbcontext.SaveChangesAsync();
+            return true;
         }
     }
 }

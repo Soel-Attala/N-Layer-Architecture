@@ -1,8 +1,102 @@
-﻿@{
+﻿﻿@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+<div class="row">
+    <div class="col-sm-12">
+
+        <!--Inicio tarjeta-->
+        <div class="card">
+            <div class="card-header">Contacts</div>
+            <div class="card-body">
+
+                <button class="btn btn-success" id="btnNew">New Contact</button>
+
+                <hr />
+
+                <table class="table table-striped" id="tbContact">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Phone</th>
+                            <th>Birth Date</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+        <!--Fin tarjeta-->
+
+    </div>
 </div>
+
+
+
+<!--Inicio Modal-->
+<div class="modal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Contact Details</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="txtContactId" value="0" />
+                <div class="mb-2">
+                    <label>Name</label>
+                    <input type="text" class="form-control" id="txtName" />
+                </div>
+                <div class="mb-2">
+                    <label>Phone</label>
+                    <input type="text" class="form-control" id="txtPhone" />
+                </div>
+                <div class="mb-2">
+                    <label>Birth Date</label>
+                    <input type="text" class="form-control" id="txtBirthDate" />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="btnSave">Save</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!--Fin Modal-->
+
+@section Scripts{
+    <script>
+        const Base_Model = {
+            contactId: 0,
+            name:"",
+            phone:"",
+            birthDate:""
+        }
+        function showModal(model){
+            $("#txtContactId").val(model.ContactId);
+            $$("#txtName").val(model.Name);
+            $("#txtPhone").val(model.Phone);
+            $("#txtBirthDate").val(model.BirthDate);
+
+
+            $('.modal').modal('Show');
+
+            $("#btnNew").click(()=>{
+                showModal(Base_Model);
+            }) 
+        }
+
+
+
+    </script>
+}
+
+
+
+
+
